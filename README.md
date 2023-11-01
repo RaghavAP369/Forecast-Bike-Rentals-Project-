@@ -18,4 +18,4 @@
 
 ## Conclusion
 
- This comprehensive approach will enable us to develop a robust and accurate bike rental demand prediction system.
+ This comprehensive approach will enable us to develop an  accurate bike rental demand prediction system.
